@@ -1,10 +1,1 @@
 # Automated-Teller-Machine-ATM
-
-
-
-
-
-
-
-
-
